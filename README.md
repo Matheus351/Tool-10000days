@@ -6,7 +6,8 @@ Projeto simples apenas para trabahar conceitos básicos de:
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript Dates
+- JavaScript Regular expressions
 
 ###  ✨Homegagem ao TOOL ✨
 
